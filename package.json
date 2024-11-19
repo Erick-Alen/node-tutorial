@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-introduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "serve -p 5050 static",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify-cli": "^7.0.1",
+    "serve": "^14.2.4"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
